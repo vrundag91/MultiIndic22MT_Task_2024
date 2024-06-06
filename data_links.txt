@@ -1,0 +1,7 @@
+https://ai4bharat.iitm.ac.in/bpcc/
+https://github.com/AI4Bharat/IndicTrans2
+https://huggingface.co/datasets/rahular/varta
+https://github.com/AI4Bharat/IndicBERT/tree/main#indiccorp-v2
+
+\* LLM Suit *\
+https://github.com/AI4Bharat/IndicLLMSuite
